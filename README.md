@@ -61,11 +61,16 @@ Download "input1.txt" and "MyGUI.java"
 and just run it in the command prompt
 
 
+
 Functions not working:
+
 NOt running in the Docker
+
 frontend GUI application cannot find the wordcount
 
+
 Functions Working:
+
 GUI application can receive user input
 
 inverted index, for wordcount in each file can work
