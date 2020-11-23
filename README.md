@@ -3,9 +3,13 @@
 How to get the application running?
 
 1, create cluster
+
+
 2)upload WordCount.jar to cluster
 
-3)upload data files to one directory (in Cluster SSH) (this can be a two-level directory. For example,  firstLevel is called  "inputData". Second level are directories such as Hugo, Histories and Tolstoy)
+3)upload data files to one directory (in Cluster SSH) 
+
+(this can become a two-level directory. For example,  firstLevel is called  "inputData". Second level are directories such as Hugo, Histories and Tolstoy)
 
 (type in SSH terminal)
 tar xfz Hugo.tar.gz
