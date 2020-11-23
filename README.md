@@ -8,8 +8,8 @@ How to get the application running?
 3)upload data files to one directory (in Cluster SSH) (this can be a two-level directory. For example,  firstLevel is called  "inputData". Second level are directories such as Hugo, Histories and Tolstoy)
 
 (type in SSH terminal)
-tar xfz Hugo.tar.gz
-tar xfz Tolstoy.tar.gz
+tar xfz Hugo.tar.gz  /n
+tar xfz Tolstoy.tar.gz   /n
 tar xfz shakespeare.tar.gz
 
 
